@@ -1,0 +1,506 @@
+[
+  {
+    "city_name": "亳州",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "91.36",
+    "trend_slope": "-8.624571"
+  },
+  {
+    "city_name": "亳州",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "80.11",
+    "trend_slope": "0.118"
+  },
+  {
+    "city_name": "亳州",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "80.12",
+    "trend_slope": "-1.65"
+  },
+  {
+    "city_name": "亳州",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "81.58",
+    "trend_slope": "2.104571"
+  },
+  {
+    "city_name": "亳州",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "75.47",
+    "trend_slope": "3.113143"
+  },
+  {
+    "city_name": "亳州",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "74.73",
+    "trend_slope": "4.402286"
+  },
+  {
+    "city_name": "亳州",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "46.38",
+    "trend_slope": "2.763429"
+  },
+  {
+    "city_name": "亳州",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "49.99",
+    "trend_slope": "2.584571"
+  },
+  {
+    "city_name": "亳州",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "39.71",
+    "trend_slope": "-2.135429"
+  },
+  {
+    "city_name": "亳州",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "55.71",
+    "trend_slope": "-3.256"
+  },
+  {
+    "city_name": "亳州",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "76.78",
+    "trend_slope": "-0.876286"
+  },
+  {
+    "city_name": "亳州",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "90.66",
+    "trend_slope": "-1.247429"
+  },
+  {
+    "city_name": "南京",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "69.58",
+    "trend_slope": "-1.964857"
+  },
+  {
+    "city_name": "南京",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "63.93",
+    "trend_slope": "2.451714"
+  },
+  {
+    "city_name": "南京",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "67.33",
+    "trend_slope": "0.844857"
+  },
+  {
+    "city_name": "南京",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "72.37",
+    "trend_slope": "3.049429"
+  },
+  {
+    "city_name": "南京",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "65.83",
+    "trend_slope": "2.366286"
+  },
+  {
+    "city_name": "南京",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "51.96",
+    "trend_slope": "1.742"
+  },
+  {
+    "city_name": "南京",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "39.36",
+    "trend_slope": "1.180857"
+  },
+  {
+    "city_name": "南京",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "50.67",
+    "trend_slope": "2.304571"
+  },
+  {
+    "city_name": "南京",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "39.92",
+    "trend_slope": "-0.63"
+  },
+  {
+    "city_name": "南京",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "39.98",
+    "trend_slope": "-1.143714"
+  },
+  {
+    "city_name": "南京",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "60.63",
+    "trend_slope": "1.405714"
+  },
+  {
+    "city_name": "南京",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "64.66",
+    "trend_slope": "-2.272"
+  },
+  {
+    "city_name": "合肥",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "88",
+    "trend_slope": "-0.163714"
+  },
+  {
+    "city_name": "合肥",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "72.61",
+    "trend_slope": "3.043143"
+  },
+  {
+    "city_name": "合肥",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "78.38",
+    "trend_slope": "2.299143"
+  },
+  {
+    "city_name": "合肥",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "76.51",
+    "trend_slope": "2.960286"
+  },
+  {
+    "city_name": "合肥",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "69.05",
+    "trend_slope": "2.648857"
+  },
+  {
+    "city_name": "合肥",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "51.61",
+    "trend_slope": "1.682857"
+  },
+  {
+    "city_name": "合肥",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "40",
+    "trend_slope": "1.076286"
+  },
+  {
+    "city_name": "合肥",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "46.2",
+    "trend_slope": "1.027143"
+  },
+  {
+    "city_name": "合肥",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "35.34",
+    "trend_slope": "-3.086286"
+  },
+  {
+    "city_name": "合肥",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "41.92",
+    "trend_slope": "-2.490571"
+  },
+  {
+    "city_name": "合肥",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "67.96",
+    "trend_slope": "0.927429"
+  },
+  {
+    "city_name": "合肥",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "75.49",
+    "trend_slope": "-2.938"
+  },
+  {
+    "city_name": "杭州",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "85.18",
+    "trend_slope": "3.246286"
+  },
+  {
+    "city_name": "杭州",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "65.71",
+    "trend_slope": "3.373714"
+  },
+  {
+    "city_name": "杭州",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "63.08",
+    "trend_slope": "2.025429"
+  },
+  {
+    "city_name": "杭州",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "63.82",
+    "trend_slope": "1.540286"
+  },
+  {
+    "city_name": "杭州",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "60.42",
+    "trend_slope": "2.343714"
+  },
+  {
+    "city_name": "杭州",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "46.92",
+    "trend_slope": "1.741429"
+  },
+  {
+    "city_name": "杭州",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "33.34",
+    "trend_slope": "0.001429"
+  },
+  {
+    "city_name": "杭州",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "51.11",
+    "trend_slope": "2.439429"
+  },
+  {
+    "city_name": "杭州",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "43.74",
+    "trend_slope": "-0.263429"
+  },
+  {
+    "city_name": "杭州",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "44.69",
+    "trend_slope": "0.242286"
+  },
+  {
+    "city_name": "杭州",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "53.95",
+    "trend_slope": "0.409714"
+  },
+  {
+    "city_name": "杭州",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "66.41",
+    "trend_slope": "-1.453429"
+  },
+  {
+    "city_name": "淮南",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "99.42",
+    "trend_slope": "-3.173714"
+  },
+  {
+    "city_name": "淮南",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "80.78",
+    "trend_slope": "1.063429"
+  },
+  {
+    "city_name": "淮南",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "88.72",
+    "trend_slope": "0.807143"
+  },
+  {
+    "city_name": "淮南",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "80.76",
+    "trend_slope": "2.266"
+  },
+  {
+    "city_name": "淮南",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "69.73",
+    "trend_slope": "1.314286"
+  },
+  {
+    "city_name": "淮南",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "56.68",
+    "trend_slope": "1.146571"
+  },
+  {
+    "city_name": "淮南",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "39.79",
+    "trend_slope": "1.085714"
+  },
+  {
+    "city_name": "淮南",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "45.63",
+    "trend_slope": "1.284857"
+  },
+  {
+    "city_name": "淮南",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "37.16",
+    "trend_slope": "-2.839143"
+  },
+  {
+    "city_name": "淮南",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "43.27",
+    "trend_slope": "-4.562"
+  },
+  {
+    "city_name": "淮南",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "71.57",
+    "trend_slope": "-1.495429"
+  },
+  {
+    "city_name": "淮南",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "82.53",
+    "trend_slope": "-5.567143"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "1",
+    "predict_year": "2026",
+    "predict_avg_aqi": "88.27",
+    "trend_slope": "0.706"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "2",
+    "predict_year": "2026",
+    "predict_avg_aqi": "70.92",
+    "trend_slope": "2.233714"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "3",
+    "predict_year": "2026",
+    "predict_avg_aqi": "67.79",
+    "trend_slope": "1.342286"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "4",
+    "predict_year": "2026",
+    "predict_avg_aqi": "70.59",
+    "trend_slope": "2.284286"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "5",
+    "predict_year": "2026",
+    "predict_avg_aqi": "64.97",
+    "trend_slope": "2.585714"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "6",
+    "predict_year": "2026",
+    "predict_avg_aqi": "48.02",
+    "trend_slope": "1.615143"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "7",
+    "predict_year": "2026",
+    "predict_avg_aqi": "42.56",
+    "trend_slope": "1.636857"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "8",
+    "predict_year": "2026",
+    "predict_avg_aqi": "46.19",
+    "trend_slope": "0.836571"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "9",
+    "predict_year": "2026",
+    "predict_avg_aqi": "44.55",
+    "trend_slope": "-0.967714"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "10",
+    "predict_year": "2026",
+    "predict_avg_aqi": "49.45",
+    "trend_slope": "-0.647714"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "11",
+    "predict_year": "2026",
+    "predict_avg_aqi": "66.94",
+    "trend_slope": "1.226286"
+  },
+  {
+    "city_name": "铜陵",
+    "month": "12",
+    "predict_year": "2026",
+    "predict_avg_aqi": "79.21",
+    "trend_slope": "-1.453714"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "city_name": "亳州",
+    "max_temperature": "40",
+    "min_temperature": "-10"
+  },
+  {
+    "city_name": "南京",
+    "max_temperature": "40",
+    "min_temperature": "-7"
+  },
+  {
+    "city_name": "合肥",
+    "max_temperature": "40",
+    "min_temperature": "-9"
+  },
+  {
+    "city_name": "杭州",
+    "max_temperature": "42",
+    "min_temperature": "-5"
+  },
+  {
+    "city_name": "淮南",
+    "max_temperature": "39",
+    "min_temperature": "-9"
+  },
+  {
+    "city_name": "铜陵",
+    "max_temperature": "39",
+    "min_temperature": "-7"
+  }
+]

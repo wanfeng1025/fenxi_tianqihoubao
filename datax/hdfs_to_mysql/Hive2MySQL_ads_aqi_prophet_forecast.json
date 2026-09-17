@@ -1,0 +1,93 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "hdfsreader",
+                    "parameter": {
+                        "path": "/user/hive/warehouse/weather_db.db/ads_aqi_prophet_forecast",
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "fieldDelimiter": "\t",
+                        "encoding": "UTF-8",
+                        "nullFormat": "\\N",
+                        "column": [
+                            {
+                                "index": 0,
+                                "type": "string"
+                            },
+                            {
+                                "index": 1,
+                                "type": "string"
+                            },
+                            {
+                                "index": 2,
+                                "type": "string"
+                            },
+                            {
+                                "index": 3,
+                                "type": "string"
+                            },
+                            {
+                                "index": 4,
+                                "type": "string"
+                            },
+                            {
+                                "index": 5,
+                                "type": "string"
+                            },
+                            {
+                                "index": 6,
+                                "type": "string"
+                            },
+                            {
+                                "index": 7,
+                                "type": "string"
+                            },
+                            {
+                                "index": 8,
+                                "type": "string"
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "writeMode": "insert",
+                        "column": [
+                            "city_name",
+                            "forecast_month",
+                            "forecast_aqi",
+                            "forecast_lower",
+                            "forecast_upper",
+                            "train_start",
+                            "train_end",
+                            "model_name",
+                            "generated_at"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai",
+                                "table": [
+                                    "ads_aqi_prophet_forecast"
+                                ]
+                            }
+                        ],
+                        "preSql": [
+                            "TRUNCATE TABLE ads_aqi_prophet_forecast"
+                        ],
+                        "batchSize": 1024
+                    }
+                }
+            }
+        ],
+        "setting": {
+            "speed": {
+                "channel": 1
+            }
+        }
+    }
+}

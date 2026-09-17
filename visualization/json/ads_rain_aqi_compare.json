@@ -1,0 +1,56 @@
+[
+  {
+    "city_name": "亳州",
+    "rainy_days": "641",
+    "rainy_avg_aqi": "55.75",
+    "non_rainy_days": "1783",
+    "non_rainy_avg_aqi": "76.65",
+    "aqi_difference": "20.9",
+    "rainy_reduction_pct": "27.27"
+  },
+  {
+    "city_name": "南京",
+    "rainy_days": "768",
+    "rainy_avg_aqi": "45.96",
+    "non_rainy_days": "1656",
+    "non_rainy_avg_aqi": "59.51",
+    "aqi_difference": "13.54",
+    "rainy_reduction_pct": "22.76"
+  },
+  {
+    "city_name": "合肥",
+    "rainy_days": "823",
+    "rainy_avg_aqi": "49.25",
+    "non_rainy_days": "1601",
+    "non_rainy_avg_aqi": "65.42",
+    "aqi_difference": "16.17",
+    "rainy_reduction_pct": "24.72"
+  },
+  {
+    "city_name": "杭州",
+    "rainy_days": "1131",
+    "rainy_avg_aqi": "44.18",
+    "non_rainy_days": "1293",
+    "non_rainy_avg_aqi": "58.99",
+    "aqi_difference": "14.82",
+    "rainy_reduction_pct": "25.11"
+  },
+  {
+    "city_name": "淮南",
+    "rainy_days": "762",
+    "rainy_avg_aqi": "55.38",
+    "non_rainy_days": "1662",
+    "non_rainy_avg_aqi": "74.42",
+    "aqi_difference": "19.03",
+    "rainy_reduction_pct": "25.58"
+  },
+  {
+    "city_name": "铜陵",
+    "rainy_days": "1002",
+    "rainy_avg_aqi": "49.92",
+    "non_rainy_days": "1422",
+    "non_rainy_avg_aqi": "64.38",
+    "aqi_difference": "14.46",
+    "rainy_reduction_pct": "22.47"
+  }
+]

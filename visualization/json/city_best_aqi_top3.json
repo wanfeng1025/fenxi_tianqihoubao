@@ -1,0 +1,164 @@
+[
+  {
+    "city_name": "亳州",
+    "date": "2021-07-28",
+    "aqi_quality_grade": "优",
+    "aqi_index": "13",
+    "pm25": "4.00",
+    "pm10": "5.00",
+    "city_rank": "2"
+  },
+  {
+    "city_name": "亳州",
+    "date": "2022-10-04",
+    "aqi_quality_grade": "优",
+    "aqi_index": "12",
+    "pm25": "5.00",
+    "pm10": "9.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "亳州",
+    "date": "2023-07-30",
+    "aqi_quality_grade": "优",
+    "aqi_index": "13",
+    "pm25": "4.00",
+    "pm10": "7.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "南京",
+    "date": "2021-07-26",
+    "aqi_quality_grade": "优",
+    "aqi_index": "12",
+    "pm25": "3.00",
+    "pm10": "7.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "南京",
+    "date": "2024-06-29",
+    "aqi_quality_grade": "优",
+    "aqi_index": "11",
+    "pm25": "4.00",
+    "pm10": "8.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "南京",
+    "date": "2024-09-20",
+    "aqi_quality_grade": "优",
+    "aqi_index": "11",
+    "pm25": "4.00",
+    "pm10": "10.00",
+    "city_rank": "2"
+  },
+  {
+    "city_name": "合肥",
+    "date": "2021-07-27",
+    "aqi_quality_grade": "优",
+    "aqi_index": "12",
+    "pm25": "3.00",
+    "pm10": "8.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "合肥",
+    "date": "2021-07-28",
+    "aqi_quality_grade": "优",
+    "aqi_index": "10",
+    "pm25": "0.00",
+    "pm10": "4.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "合肥",
+    "date": "2024-06-29",
+    "aqi_quality_grade": "优",
+    "aqi_index": "11",
+    "pm25": "3.00",
+    "pm10": "6.00",
+    "city_rank": "2"
+  },
+  {
+    "city_name": "杭州",
+    "date": "2021-09-13",
+    "aqi_quality_grade": "优",
+    "aqi_index": "9",
+    "pm25": "4.00",
+    "pm10": "7.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "杭州",
+    "date": "2024-02-21",
+    "aqi_quality_grade": "优",
+    "aqi_index": "13",
+    "pm25": "5.00",
+    "pm10": "7.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "杭州",
+    "date": "2024-06-27",
+    "aqi_quality_grade": "优",
+    "aqi_index": "11",
+    "pm25": "6.00",
+    "pm10": "8.00",
+    "city_rank": "2"
+  },
+  {
+    "city_name": "淮南",
+    "date": "2021-07-28",
+    "aqi_quality_grade": "优",
+    "aqi_index": "14",
+    "pm25": "5.00",
+    "pm10": "7.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "淮南",
+    "date": "2022-07-06",
+    "aqi_quality_grade": "优",
+    "aqi_index": "16",
+    "pm25": "5.00",
+    "pm10": "11.00",
+    "city_rank": "2"
+  },
+  {
+    "city_name": "淮南",
+    "date": "2023-07-29",
+    "aqi_quality_grade": "优",
+    "aqi_index": "16",
+    "pm25": "7.00",
+    "pm10": "12.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "铜陵",
+    "date": "2021-07-27",
+    "aqi_quality_grade": "优",
+    "aqi_index": "13",
+    "pm25": "6.00",
+    "pm10": "10.00",
+    "city_rank": "1"
+  },
+  {
+    "city_name": "铜陵",
+    "date": "2023-07-29",
+    "aqi_quality_grade": "优",
+    "aqi_index": "14",
+    "pm25": "5.00",
+    "pm10": "13.00",
+    "city_rank": "3"
+  },
+  {
+    "city_name": "铜陵",
+    "date": "2023-08-28",
+    "aqi_quality_grade": "优",
+    "aqi_index": "14",
+    "pm25": "5.00",
+    "pm10": "11.00",
+    "city_rank": "2"
+  }
+]

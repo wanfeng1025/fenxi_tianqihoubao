@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>03 雨天与非雨天AQI对比</title>
+  <script src="../js/echarts.min.js"></script>
+  <style>
+    html,body{margin:0;width:100%;height:100%;background:#fff;overflow:hidden}
+    #chart{width:1600px;height:900px;margin:0 auto}
+  </style>
+</head>
+<body>
+  <div id="chart" role="img" aria-label="雨天与非雨天AQI对比"></div>
+  <script>
+    const chart=echarts.init(document.getElementById('chart'),null,{renderer:'canvas',devicePixelRatio:1});
+    const option={"animation":false,"backgroundColor":"#FFFFFF","color":["#2F5597","#70AD47","#ED7D31","#5B9BD5","#A5A5A5","#FFC000"],"textStyle":{"fontFamily":"Microsoft YaHei, SimSun, Times New Roman","color":"#222"},"title":{"text":"雨天与非雨天平均 AQI 对比","subtext":"柱形比较平均 AQI；折线表示雨天相对降低比例","left":"center","top":18,"textStyle":{"fontSize":28,"fontWeight":"bold","color":"#17365D"},"subtextStyle":{"fontSize":15,"color":"#666","lineHeight":22}},"tooltip":{"trigger":"axis","confine":true},"legend":{"top":94,"left":"center","textStyle":{"fontSize":15}},"grid":{"left":92,"right":110,"top":145,"bottom":78,"containLabel":true},"xAxis":{"type":"category","data":["亳州","南京","合肥","杭州","淮南","铜陵"],"axisLabel":{"fontSize":17}},"yAxis":[{"type":"value","name":"平均 AQI","axisLabel":{"fontSize":14}},{"type":"value","name":"降低比例（%）","min":0,"max":35,"axisLabel":{"formatter":"{value}%","fontSize":14}}],"series":[{"name":"雨天平均AQI","type":"bar","barMaxWidth":46,"data":[55.75,45.96,49.25,44.18,55.38,49.92],"label":{"show":true,"position":"top"}},{"name":"非雨天平均AQI","type":"bar","barMaxWidth":46,"data":[76.65,59.51,65.42,58.99,74.42,64.38],"label":{"show":true,"position":"top"}},{"name":"雨天降低比例","type":"line","data":[27.27,22.76,24.72,25.11,25.58,22.47],"showSymbol":true,"symbolSize":10,"smooth":false,"lineStyle":{"width":3,"color":"#C00000"},"connectNulls":false,"yAxisIndex":1,"itemStyle":{"color":"#C00000"}}]};
+    chart.setOption(option);
+    chart.on('finished',()=>{document.body.dataset.rendered='true';});
+    window.addEventListener('resize',()=>chart.resize());
+  </script>
+</body>
+</html>

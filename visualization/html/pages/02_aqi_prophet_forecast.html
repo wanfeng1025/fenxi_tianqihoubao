@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>02 AQI Prophet预测</title>
+  <script src="../js/echarts.min.js"></script>
+  <style>
+    html,body{margin:0;width:100%;height:100%;background:#fff;overflow:hidden}
+    #chart{width:1600px;height:900px;margin:0 auto}
+  </style>
+</head>
+<body>
+  <div id="chart" role="img" aria-label="AQI Prophet预测"></div>
+  <script>
+    const chart=echarts.init(document.getElementById('chart'),null,{renderer:'canvas',devicePixelRatio:1});
+    const option={"animation":false,"backgroundColor":"#FFFFFF","color":["#2F5597","#70AD47","#ED7D31","#5B9BD5","#A5A5A5","#FFC000"],"textStyle":{"fontFamily":"Microsoft YaHei, SimSun, Times New Roman","color":"#222"},"title":{"text":"2026 年各城市 AQI Prophet 预测","subtext":"训练期 2020—2025；折线为预测均值，预测上下界保存在结果表中","left":"center","top":18,"textStyle":{"fontSize":28,"fontWeight":"bold","color":"#17365D"},"subtextStyle":{"fontSize":15,"color":"#666","lineHeight":22}},"tooltip":{"trigger":"axis","confine":true},"legend":{"top":94,"left":"center","textStyle":{"fontSize":15}},"grid":{"left":92,"right":72,"top":145,"bottom":78,"containLabel":true},"xAxis":{"type":"category","data":["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"boundaryGap":false,"axisLabel":{"fontSize":15}},"yAxis":{"type":"value","name":"预测 AQI","axisLabel":{"fontSize":14},"splitLine":{"lineStyle":{"type":"dashed"}}},"series":[{"name":"亳州","type":"line","data":[119.6408,79.2502,88.2225,75.8205,57.8902,57.9374,37.3835,42.8694,49.4757,65.1043,77.1678,91.8031],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false},{"name":"南京","type":"line","data":[79.0761,59.4008,68.5506,66.5435,58.3191,49.1812,36.9178,45.2223,44.4353,46.7842,60.1649,74.26],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false},{"name":"合肥","type":"line","data":[91.2633,64.7635,74.2703,70.2497,59.1878,47.8167,37.3263,44.9683,48.1262,51.8886,68.3524,87.1873],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false},{"name":"杭州","type":"line","data":[78.2759,59.6849,61.7415,64.9548,54.7125,46.7862,36.807,46.6602,49.0079,48.5477,58.6188,75.2229],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false},{"name":"淮南","type":"line","data":[107.6907,75.4836,87.1018,72.2683,58.4472,49.4358,33.221,40.4122,45.7408,55.8441,75.1612,96.7669],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false},{"name":"铜陵","type":"line","data":[91.0265,67.883,67.7591,69.0324,59.8268,47.8363,40.3308,47.337,52.7195,56.4854,69.906,88.8855],"showSymbol":true,"symbolSize":7,"smooth":false,"lineStyle":{"width":3},"connectNulls":false}]};
+    chart.setOption(option);
+    chart.on('finished',()=>{document.body.dataset.rendered='true';});
+    window.addEventListener('resize',()=>chart.resize());
+  </script>
+</body>
+</html>

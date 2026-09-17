@@ -1,0 +1,2594 @@
+[
+  {
+    "city_name": "亳州",
+    "month_start": "2020-01-01",
+    "avg_aqi": "150.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-02-01",
+    "avg_aqi": "85.2069",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-03-01",
+    "avg_aqi": "78.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-04-01",
+    "avg_aqi": "70.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-05-01",
+    "avg_aqi": "63.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-06-01",
+    "avg_aqi": "51.9",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-07-01",
+    "avg_aqi": "39.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-08-01",
+    "avg_aqi": "38.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-09-01",
+    "avg_aqi": "55.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-10-01",
+    "avg_aqi": "80.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-11-01",
+    "avg_aqi": "80.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2020-12-01",
+    "avg_aqi": "100.4194",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-01-01",
+    "avg_aqi": "119.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-02-01",
+    "avg_aqi": "76.3929",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-03-01",
+    "avg_aqi": "93.6129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-04-01",
+    "avg_aqi": "74.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-05-01",
+    "avg_aqi": "69.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-06-01",
+    "avg_aqi": "55.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-07-01",
+    "avg_aqi": "28.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-08-01",
+    "avg_aqi": "38.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-09-01",
+    "avg_aqi": "41.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-10-01",
+    "avg_aqi": "66.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-11-01",
+    "avg_aqi": "93.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2021-12-01",
+    "avg_aqi": "93.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-01-01",
+    "avg_aqi": "130",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-02-01",
+    "avg_aqi": "71.5",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-03-01",
+    "avg_aqi": "88.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-04-01",
+    "avg_aqi": "59.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-05-01",
+    "avg_aqi": "52.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-06-01",
+    "avg_aqi": "55.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-07-01",
+    "avg_aqi": "33.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-08-01",
+    "avg_aqi": "35.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-09-01",
+    "avg_aqi": "55.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-10-01",
+    "avg_aqi": "63.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-11-01",
+    "avg_aqi": "73.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2022-12-01",
+    "avg_aqi": "105.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-01-01",
+    "avg_aqi": "124.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-02-01",
+    "avg_aqi": "79.6071",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-03-01",
+    "avg_aqi": "103.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-04-01",
+    "avg_aqi": "90.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-05-01",
+    "avg_aqi": "47.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-06-01",
+    "avg_aqi": "50.7667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-07-01",
+    "avg_aqi": "32",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-08-01",
+    "avg_aqi": "40.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-09-01",
+    "avg_aqi": "46.5333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-10-01",
+    "avg_aqi": "67.7",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-11-01",
+    "avg_aqi": "71.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2023-12-01",
+    "avg_aqi": "84.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-01-01",
+    "avg_aqi": "104.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-02-01",
+    "avg_aqi": "88.0345",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-03-01",
+    "avg_aqi": "76.6452",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-04-01",
+    "avg_aqi": "63.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-05-01",
+    "avg_aqi": "66.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-06-01",
+    "avg_aqi": "61.5667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-07-01",
+    "avg_aqi": "27.2903",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-08-01",
+    "avg_aqi": "37.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-09-01",
+    "avg_aqi": "39.8667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-10-01",
+    "avg_aqi": "73.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-11-01",
+    "avg_aqi": "70.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2024-12-01",
+    "avg_aqi": "84.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-01-01",
+    "avg_aqi": "99.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-02-01",
+    "avg_aqi": "77.4286",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-03-01",
+    "avg_aqi": "74.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-04-01",
+    "avg_aqi": "85.8667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-05-01",
+    "avg_aqi": "88.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-06-01",
+    "avg_aqi": "80.2",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-07-01",
+    "avg_aqi": "59.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-08-01",
+    "avg_aqi": "55.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-09-01",
+    "avg_aqi": "43.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-10-01",
+    "avg_aqi": "52.2903",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-11-01",
+    "avg_aqi": "88.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "亳州",
+    "month_start": "2025-12-01",
+    "avg_aqi": "101.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-01-01",
+    "avg_aqi": "81.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-02-01",
+    "avg_aqi": "46.4138",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-03-01",
+    "avg_aqi": "53.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-04-01",
+    "avg_aqi": "59.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-05-01",
+    "avg_aqi": "59.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-06-01",
+    "avg_aqi": "40",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-07-01",
+    "avg_aqi": "38.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-08-01",
+    "avg_aqi": "40.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-09-01",
+    "avg_aqi": "47.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-10-01",
+    "avg_aqi": "49.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-11-01",
+    "avg_aqi": "54.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2020-12-01",
+    "avg_aqi": "82.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-01-01",
+    "avg_aqi": "79.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-02-01",
+    "avg_aqi": "54.3571",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-03-01",
+    "avg_aqi": "70.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-04-01",
+    "avg_aqi": "55.4333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-05-01",
+    "avg_aqi": "54.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-06-01",
+    "avg_aqi": "49.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-07-01",
+    "avg_aqi": "32.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-08-01",
+    "avg_aqi": "41",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-09-01",
+    "avg_aqi": "43.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-10-01",
+    "avg_aqi": "46.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-11-01",
+    "avg_aqi": "57.1667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2021-12-01",
+    "avg_aqi": "71.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-01-01",
+    "avg_aqi": "80.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-02-01",
+    "avg_aqi": "55.7857",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-03-01",
+    "avg_aqi": "64.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-04-01",
+    "avg_aqi": "51.3333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-05-01",
+    "avg_aqi": "52.4194",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-06-01",
+    "avg_aqi": "41.9",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-07-01",
+    "avg_aqi": "34.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-08-01",
+    "avg_aqi": "38.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-09-01",
+    "avg_aqi": "41.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-10-01",
+    "avg_aqi": "40.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-11-01",
+    "avg_aqi": "48.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2022-12-01",
+    "avg_aqi": "72.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-01-01",
+    "avg_aqi": "69.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-02-01",
+    "avg_aqi": "56.7857",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-03-01",
+    "avg_aqi": "71.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-04-01",
+    "avg_aqi": "73.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-05-01",
+    "avg_aqi": "51.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-06-01",
+    "avg_aqi": "46.4333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-07-01",
+    "avg_aqi": "27.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-08-01",
+    "avg_aqi": "39.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-09-01",
+    "avg_aqi": "36.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-10-01",
+    "avg_aqi": "45.5",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-11-01",
+    "avg_aqi": "61.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2023-12-01",
+    "avg_aqi": "73.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-01-01",
+    "avg_aqi": "77.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-02-01",
+    "avg_aqi": "56.8276",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-03-01",
+    "avg_aqi": "65.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-04-01",
+    "avg_aqi": "50.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-05-01",
+    "avg_aqi": "49.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-06-01",
+    "avg_aqi": "42.5333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-07-01",
+    "avg_aqi": "26.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-08-01",
+    "avg_aqi": "37.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-09-01",
+    "avg_aqi": "31.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-10-01",
+    "avg_aqi": "37.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-11-01",
+    "avg_aqi": "44.2667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2024-12-01",
+    "avg_aqi": "68.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-01-01",
+    "avg_aqi": "71.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-02-01",
+    "avg_aqi": "61.8929",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-03-01",
+    "avg_aqi": "60.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-04-01",
+    "avg_aqi": "79.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-05-01",
+    "avg_aqi": "79.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-06-01",
+    "avg_aqi": "55.2333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-07-01",
+    "avg_aqi": "52.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-08-01",
+    "avg_aqi": "58.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-09-01",
+    "avg_aqi": "51.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-10-01",
+    "avg_aqi": "44.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-11-01",
+    "avg_aqi": "69.1333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "南京",
+    "month_start": "2025-12-01",
+    "avg_aqi": "67.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-01-01",
+    "avg_aqi": "86.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-02-01",
+    "avg_aqi": "51.9655",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-03-01",
+    "avg_aqi": "59.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-04-01",
+    "avg_aqi": "61.5333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-05-01",
+    "avg_aqi": "58.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-06-01",
+    "avg_aqi": "38.5667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-07-01",
+    "avg_aqi": "38.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-08-01",
+    "avg_aqi": "41.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-09-01",
+    "avg_aqi": "56.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-10-01",
+    "avg_aqi": "59.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-11-01",
+    "avg_aqi": "62.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2020-12-01",
+    "avg_aqi": "98.5484",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-01-01",
+    "avg_aqi": "91.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-02-01",
+    "avg_aqi": "59",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-03-01",
+    "avg_aqi": "69.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-04-01",
+    "avg_aqi": "62.1667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-05-01",
+    "avg_aqi": "57.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-06-01",
+    "avg_aqi": "51.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-07-01",
+    "avg_aqi": "32.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-08-01",
+    "avg_aqi": "40.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-09-01",
+    "avg_aqi": "47.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-10-01",
+    "avg_aqi": "53",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-11-01",
+    "avg_aqi": "69.3",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2021-12-01",
+    "avg_aqi": "82.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-01-01",
+    "avg_aqi": "93.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-02-01",
+    "avg_aqi": "62.3929",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-03-01",
+    "avg_aqi": "68.5484",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-04-01",
+    "avg_aqi": "55.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-05-01",
+    "avg_aqi": "54.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-06-01",
+    "avg_aqi": "40.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-07-01",
+    "avg_aqi": "37.2903",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-08-01",
+    "avg_aqi": "41.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-09-01",
+    "avg_aqi": "52.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-10-01",
+    "avg_aqi": "48.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-11-01",
+    "avg_aqi": "59.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2022-12-01",
+    "avg_aqi": "90",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-01-01",
+    "avg_aqi": "81.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-02-01",
+    "avg_aqi": "64.1786",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-03-01",
+    "avg_aqi": "79.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-04-01",
+    "avg_aqi": "78.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-05-01",
+    "avg_aqi": "53.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-06-01",
+    "avg_aqi": "46.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-07-01",
+    "avg_aqi": "30.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-08-01",
+    "avg_aqi": "42.4194",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-09-01",
+    "avg_aqi": "42",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-10-01",
+    "avg_aqi": "49.8",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-11-01",
+    "avg_aqi": "65.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2023-12-01",
+    "avg_aqi": "83.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-01-01",
+    "avg_aqi": "87.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-02-01",
+    "avg_aqi": "64.6897",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-03-01",
+    "avg_aqi": "73.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-04-01",
+    "avg_aqi": "59.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-05-01",
+    "avg_aqi": "55.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-06-01",
+    "avg_aqi": "43.2333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-07-01",
+    "avg_aqi": "27.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-08-01",
+    "avg_aqi": "38.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-09-01",
+    "avg_aqi": "36.2333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-10-01",
+    "avg_aqi": "47.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-11-01",
+    "avg_aqi": "53.9667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2024-12-01",
+    "avg_aqi": "78.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-01-01",
+    "avg_aqi": "90.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-02-01",
+    "avg_aqi": "69.5",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-03-01",
+    "avg_aqi": "70.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-04-01",
+    "avg_aqi": "79.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-05-01",
+    "avg_aqi": "78.6452",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-06-01",
+    "avg_aqi": "53.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-07-01",
+    "avg_aqi": "50.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-08-01",
+    "avg_aqi": "49.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-09-01",
+    "avg_aqi": "43.1333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-10-01",
+    "avg_aqi": "44.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-11-01",
+    "avg_aqi": "76.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "合肥",
+    "month_start": "2025-12-01",
+    "avg_aqi": "82.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-01-01",
+    "avg_aqi": "61.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-02-01",
+    "avg_aqi": "43.0345",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-03-01",
+    "avg_aqi": "46.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-04-01",
+    "avg_aqi": "59.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-05-01",
+    "avg_aqi": "53.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-06-01",
+    "avg_aqi": "34.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-07-01",
+    "avg_aqi": "36.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-08-01",
+    "avg_aqi": "39",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-09-01",
+    "avg_aqi": "47.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-10-01",
+    "avg_aqi": "47.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-11-01",
+    "avg_aqi": "53.9667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2020-12-01",
+    "avg_aqi": "81.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-01-01",
+    "avg_aqi": "73.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-02-01",
+    "avg_aqi": "50.3214",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-03-01",
+    "avg_aqi": "54.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-04-01",
+    "avg_aqi": "52",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-05-01",
+    "avg_aqi": "46.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-06-01",
+    "avg_aqi": "42.5333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-07-01",
+    "avg_aqi": "31.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-08-01",
+    "avg_aqi": "38.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-09-01",
+    "avg_aqi": "47.7667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-10-01",
+    "avg_aqi": "42.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-11-01",
+    "avg_aqi": "55.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2021-12-01",
+    "avg_aqi": "70.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-01-01",
+    "avg_aqi": "77.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-02-01",
+    "avg_aqi": "56.5",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-03-01",
+    "avg_aqi": "56.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-04-01",
+    "avg_aqi": "56",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-05-01",
+    "avg_aqi": "48.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-06-01",
+    "avg_aqi": "38.9",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-07-01",
+    "avg_aqi": "36.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-08-01",
+    "avg_aqi": "43.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-09-01",
+    "avg_aqi": "44.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-10-01",
+    "avg_aqi": "41.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-11-01",
+    "avg_aqi": "44.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2022-12-01",
+    "avg_aqi": "63",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-01-01",
+    "avg_aqi": "63.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-02-01",
+    "avg_aqi": "54.0357",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-03-01",
+    "avg_aqi": "63",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-04-01",
+    "avg_aqi": "65.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-05-01",
+    "avg_aqi": "47.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-06-01",
+    "avg_aqi": "44.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-07-01",
+    "avg_aqi": "27.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-08-01",
+    "avg_aqi": "37.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-09-01",
+    "avg_aqi": "38.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-10-01",
+    "avg_aqi": "42.2",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-11-01",
+    "avg_aqi": "56.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2023-12-01",
+    "avg_aqi": "75",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-01-01",
+    "avg_aqi": "90.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-02-01",
+    "avg_aqi": "55.5517",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-03-01",
+    "avg_aqi": "61.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-04-01",
+    "avg_aqi": "43.9667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-05-01",
+    "avg_aqi": "47.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-06-01",
+    "avg_aqi": "34.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-07-01",
+    "avg_aqi": "28.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-08-01",
+    "avg_aqi": "42",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-09-01",
+    "avg_aqi": "34.3333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-10-01",
+    "avg_aqi": "37.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-11-01",
+    "avg_aqi": "42.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2024-12-01",
+    "avg_aqi": "68.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-01-01",
+    "avg_aqi": "76.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-02-01",
+    "avg_aqi": "64",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-03-01",
+    "avg_aqi": "55.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-04-01",
+    "avg_aqi": "73.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-05-01",
+    "avg_aqi": "69.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-06-01",
+    "avg_aqi": "50.1667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-07-01",
+    "avg_aqi": "40.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-08-01",
+    "avg_aqi": "54.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-09-01",
+    "avg_aqi": "55.0667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-10-01",
+    "avg_aqi": "52.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-11-01",
+    "avg_aqi": "61.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "杭州",
+    "month_start": "2025-12-01",
+    "avg_aqi": "69.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-01-01",
+    "avg_aqi": "119",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-02-01",
+    "avg_aqi": "72.5862",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-03-01",
+    "avg_aqi": "75.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-04-01",
+    "avg_aqi": "68.2333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-05-01",
+    "avg_aqi": "66.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-06-01",
+    "avg_aqi": "50.7667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-07-01",
+    "avg_aqi": "41.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-08-01",
+    "avg_aqi": "39.6129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-09-01",
+    "avg_aqi": "57.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-10-01",
+    "avg_aqi": "75.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-11-01",
+    "avg_aqi": "85.7667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2020-12-01",
+    "avg_aqi": "126.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-01-01",
+    "avg_aqi": "107.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-02-01",
+    "avg_aqi": "78.3929",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-03-01",
+    "avg_aqi": "93.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-04-01",
+    "avg_aqi": "76.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-05-01",
+    "avg_aqi": "71.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-06-01",
+    "avg_aqi": "57.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-07-01",
+    "avg_aqi": "31.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-08-01",
+    "avg_aqi": "41.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-09-01",
+    "avg_aqi": "46.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-10-01",
+    "avg_aqi": "63.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-11-01",
+    "avg_aqi": "82.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2021-12-01",
+    "avg_aqi": "96.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-01-01",
+    "avg_aqi": "127.2581",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-02-01",
+    "avg_aqi": "77.1071",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-03-01",
+    "avg_aqi": "80.0323",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-04-01",
+    "avg_aqi": "57.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-05-01",
+    "avg_aqi": "54.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-06-01",
+    "avg_aqi": "43.9667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-07-01",
+    "avg_aqi": "31.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-08-01",
+    "avg_aqi": "36.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-09-01",
+    "avg_aqi": "50.9",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-10-01",
+    "avg_aqi": "56.9032",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-11-01",
+    "avg_aqi": "67.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2022-12-01",
+    "avg_aqi": "108.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-01-01",
+    "avg_aqi": "101.6452",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-02-01",
+    "avg_aqi": "75.4286",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-03-01",
+    "avg_aqi": "100.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-04-01",
+    "avg_aqi": "84.3",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-05-01",
+    "avg_aqi": "53.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-06-01",
+    "avg_aqi": "50.2",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-07-01",
+    "avg_aqi": "30.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-08-01",
+    "avg_aqi": "41.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-09-01",
+    "avg_aqi": "42.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-10-01",
+    "avg_aqi": "54.65",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-11-01",
+    "avg_aqi": "76.6",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2023-12-01",
+    "avg_aqi": "93.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-01-01",
+    "avg_aqi": "104.3871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-02-01",
+    "avg_aqi": "78.5862",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-03-01",
+    "avg_aqi": "82.7097",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-04-01",
+    "avg_aqi": "64.2333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-05-01",
+    "avg_aqi": "64.5484",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-06-01",
+    "avg_aqi": "52.6",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-07-01",
+    "avg_aqi": "28.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-08-01",
+    "avg_aqi": "39.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-09-01",
+    "avg_aqi": "41.4333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-10-01",
+    "avg_aqi": "58.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-11-01",
+    "avg_aqi": "65.4333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2024-12-01",
+    "avg_aqi": "98.5484",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-01-01",
+    "avg_aqi": "103.6129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-02-01",
+    "avg_aqi": "80.25",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-03-01",
+    "avg_aqi": "83.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-04-01",
+    "avg_aqi": "86.1667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-05-01",
+    "avg_aqi": "79.9677",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-06-01",
+    "avg_aqi": "60.6667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-07-01",
+    "avg_aqi": "51.5161",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-08-01",
+    "avg_aqi": "49.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-09-01",
+    "avg_aqi": "42.8667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-10-01",
+    "avg_aqi": "46.871",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-11-01",
+    "avg_aqi": "83.5667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "淮南",
+    "month_start": "2025-12-01",
+    "avg_aqi": "88.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-01-01",
+    "avg_aqi": "78",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-02-01",
+    "avg_aqi": "56.0345",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-03-01",
+    "avg_aqi": "59.4194",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-04-01",
+    "avg_aqi": "61.0333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-05-01",
+    "avg_aqi": "53.129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-06-01",
+    "avg_aqi": "35.0667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-07-01",
+    "avg_aqi": "37.6452",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-08-01",
+    "avg_aqi": "44.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-09-01",
+    "avg_aqi": "50.3667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-10-01",
+    "avg_aqi": "56.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-11-01",
+    "avg_aqi": "58.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2020-12-01",
+    "avg_aqi": "94.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-01-01",
+    "avg_aqi": "90.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-02-01",
+    "avg_aqi": "62.6429",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-03-01",
+    "avg_aqi": "59.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-04-01",
+    "avg_aqi": "59.6",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-05-01",
+    "avg_aqi": "51",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-06-01",
+    "avg_aqi": "46.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-07-01",
+    "avg_aqi": "31.6774",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-08-01",
+    "avg_aqi": "40.8387",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-09-01",
+    "avg_aqi": "49.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-10-01",
+    "avg_aqi": "53.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-11-01",
+    "avg_aqi": "68.8333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2021-12-01",
+    "avg_aqi": "81.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-01-01",
+    "avg_aqi": "93.3548",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-02-01",
+    "avg_aqi": "63.4286",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-03-01",
+    "avg_aqi": "60.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-04-01",
+    "avg_aqi": "52.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-05-01",
+    "avg_aqi": "55.6129",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-06-01",
+    "avg_aqi": "38.4",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-07-01",
+    "avg_aqi": "37.5161",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-08-01",
+    "avg_aqi": "40.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-09-01",
+    "avg_aqi": "51.5667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-10-01",
+    "avg_aqi": "49.2258",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-11-01",
+    "avg_aqi": "54.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2022-12-01",
+    "avg_aqi": "82.4516",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-01-01",
+    "avg_aqi": "77.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-02-01",
+    "avg_aqi": "59.8571",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-03-01",
+    "avg_aqi": "66.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-04-01",
+    "avg_aqi": "71.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-05-01",
+    "avg_aqi": "52.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-06-01",
+    "avg_aqi": "45.5333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-07-01",
+    "avg_aqi": "31.7742",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-08-01",
+    "avg_aqi": "42.0645",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-09-01",
+    "avg_aqi": "43.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-10-01",
+    "avg_aqi": "48.85",
+    "observation_count": "20"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-11-01",
+    "avg_aqi": "65.7",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2023-12-01",
+    "avg_aqi": "81.9355",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-01-01",
+    "avg_aqi": "87.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-02-01",
+    "avg_aqi": "66.7931",
+    "observation_count": "29"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-03-01",
+    "avg_aqi": "70.3226",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-04-01",
+    "avg_aqi": "54.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-05-01",
+    "avg_aqi": "52.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-06-01",
+    "avg_aqi": "40.1",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-07-01",
+    "avg_aqi": "32.8065",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-08-01",
+    "avg_aqi": "41.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-09-01",
+    "avg_aqi": "43.9333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-10-01",
+    "avg_aqi": "46.5484",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-11-01",
+    "avg_aqi": "55.4667",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2024-12-01",
+    "avg_aqi": "81.1935",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-01-01",
+    "avg_aqi": "88.0968",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-02-01",
+    "avg_aqi": "69.8929",
+    "observation_count": "28"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-03-01",
+    "avg_aqi": "61.4839",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-04-01",
+    "avg_aqi": "76.5",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-05-01",
+    "avg_aqi": "71.1613",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-06-01",
+    "avg_aqi": "48.7333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-07-01",
+    "avg_aqi": "49.5806",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-08-01",
+    "avg_aqi": "49.7419",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-09-01",
+    "avg_aqi": "48.6333",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-10-01",
+    "avg_aqi": "56",
+    "observation_count": "31"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-11-01",
+    "avg_aqi": "72.8",
+    "observation_count": "30"
+  },
+  {
+    "city_name": "铜陵",
+    "month_start": "2025-12-01",
+    "avg_aqi": "84.3871",
+    "observation_count": "31"
+  }
+]

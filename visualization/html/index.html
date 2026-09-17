@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>历史天气与 AQI 指标可视化</title>
+  <style>
+    :root{
+      --navy:#17365d;
+      --blue:#2f5597;
+      --blue-soft:#eef4fb;
+      --ink:#1f2937;
+      --muted:#64748b;
+      --line:#dbe5f1;
+      --paper:#fff;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:linear-gradient(180deg,#edf3fa 0,#f7f9fc 360px);font-family:"Microsoft YaHei","SimSun",sans-serif;color:var(--ink)}
+    main{width:min(1180px,calc(100% - 40px));margin:0 auto;padding:52px 0 64px}
+    .hero{position:relative;overflow:hidden;padding:34px 38px;border-radius:18px;background:linear-gradient(135deg,#17365d 0%,#2f5597 70%,#4b77ad 100%);color:#fff;box-shadow:0 18px 45px rgba(23,54,93,.22)}
+    .hero:after{content:"";position:absolute;right:-90px;top:-130px;width:340px;height:340px;border:48px solid rgba(255,255,255,.08);border-radius:50%}
+    h1{position:relative;z-index:1;margin:0 0 12px;font-size:34px;letter-spacing:.04em}
+    .intro{position:relative;z-index:1;max-width:820px;margin:0;color:#e8f0fa;font-size:16px;line-height:1.8}
+    .meta{position:relative;z-index:1;display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+    .badge{padding:7px 12px;border:1px solid rgba(255,255,255,.26);border-radius:999px;background:rgba(255,255,255,.11);font:14px "Times New Roman","Microsoft YaHei",sans-serif}
+    .section-title{display:flex;align-items:end;justify-content:space-between;gap:20px;margin:34px 2px 16px}
+    .section-title h2{margin:0;color:var(--navy);font-size:22px}
+    .section-title p{margin:0;color:var(--muted);font-size:14px}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+    .card{display:grid;grid-template-columns:54px 1fr;gap:16px;padding:20px;border:1px solid var(--line);border-radius:14px;background:var(--paper);box-shadow:0 5px 18px rgba(31,64,104,.07);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
+    .card:hover{transform:translateY(-2px);border-color:#b8cce4;box-shadow:0 10px 26px rgba(31,64,104,.12)}
+    .number{display:grid;place-items:center;width:54px;height:54px;border-radius:13px;background:var(--blue-soft);color:var(--blue);font:bold 20px "Times New Roman",serif}
+    .card h3{margin:1px 0 7px;color:var(--navy);font-size:17px}
+    .dataset{margin:0;color:var(--muted);font:13px "Times New Roman",monospace;word-break:break-all}
+    .actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
+    .button{display:inline-flex;align-items:center;justify-content:center;min-height:34px;padding:7px 12px;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600}
+    .button.primary{background:var(--blue);color:#fff}
+    .button.secondary{border:1px solid #b9c9dd;background:#fff;color:var(--navy)}
+    footer{margin-top:26px;padding:16px 4px;color:var(--muted);font-size:13px;line-height:1.8;text-align:center}
+    @media(max-width:760px){main{width:min(100% - 24px,1180px);padding-top:24px}.hero{padding:28px 24px}h1{font-size:27px}.grid{grid-template-columns:1fr}.section-title{align-items:start;flex-direction:column;gap:5px}}
+  </style>
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <h1>历史天气与 AQI 数据分析</h1>
+      <p class="intro">10 个指标均使用 Apache ECharts 5.5.1 与本次实验结果数据生成。每个指标同时提供交互式页面和适合课程报告插图的高清静态 PNG。</p>
+      <div class="meta">
+        <span class="badge">10 个分析指标</span>
+        <span class="badge">PNG 3200 × 1800</span>
+        <span class="badge">500 DPI</span>
+        <span class="badge">白色背景 · 无动画</span>
+      </div>
+    </header>
+
+    <div class="section-title">
+      <h2>指标图表目录</h2>
+      <p>“查看图表”用于交互浏览，“下载静态图”用于 Word 报告插图。</p>
+    </div>
+
+    <section class="grid" aria-label="十项指标可视化">
+      <article class="card"><div class="number">01</div><div><h3>AQI 等级分布</h3><p class="dataset">ads_aqi_grade_distribution</p><div class="actions"><a class="button primary" href="pages/01_aqi_grade_distribution.html">查看图表</a><a class="button secondary" href="../images/01_aqi_grade_distribution_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">02</div><div><h3>AQI Prophet 预测</h3><p class="dataset">ads_aqi_prophet_forecast</p><div class="actions"><a class="button primary" href="pages/02_aqi_prophet_forecast.html">查看图表</a><a class="button secondary" href="../images/02_aqi_prophet_forecast_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">03</div><div><h3>雨天与非雨天 AQI 对比</h3><p class="dataset">ads_rain_aqi_compare</p><div class="actions"><a class="button primary" href="pages/03_rain_aqi_compare.html">查看图表</a><a class="button secondary" href="../images/03_rain_aqi_compare_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">04</div><div><h3>AQI 年度增长率</h3><p class="dataset">aqi_growth_rate</p><div class="actions"><a class="button primary" href="pages/04_aqi_growth_rate.html">查看图表</a><a class="button secondary" href="../images/04_aqi_growth_rate_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">05</div><div><h3>各城市 AQI 最好日期 Top3</h3><p class="dataset">city_best_aqi_top3</p><div class="actions"><a class="button primary" href="pages/05_city_best_aqi_top3.html">查看图表</a><a class="button secondary" href="../images/05_city_best_aqi_top3_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">06</div><div><h3>各城市最高、最低气温</h3><p class="dataset">city_max_mintemp</p><div class="actions"><a class="button primary" href="pages/06_city_max_mintemp.html">查看图表</a><a class="button secondary" href="../images/06_city_max_mintemp_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">07</div><div><h3>各城市下雨天数</h3><p class="dataset">city_rainy_days</p><div class="actions"><a class="button primary" href="pages/07_city_rainy_days.html">查看图表</a><a class="button secondary" href="../images/07_city_rainy_days_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">08</div><div><h3>最长连续优空气时段</h3><p class="dataset">continuous_good_air</p><div class="actions"><a class="button primary" href="pages/08_continuous_good_air.html">查看图表</a><a class="button secondary" href="../images/08_continuous_good_air_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">09</div><div><h3>月度 AQI 预测与趋势斜率</h3><p class="dataset">monthly_aqi_predict</p><div class="actions"><a class="button primary" href="pages/09_monthly_aqi_predict.html">查看图表</a><a class="button secondary" href="../images/09_monthly_aqi_predict_500dpi.png" download>下载静态图</a></div></div></article>
+      <article class="card"><div class="number">10</div><div><h3>2020—2025 月度 AQI 训练数据</h3><p class="dataset">stg_aqi_monthly_2020_2025</p><div class="actions"><a class="button primary" href="pages/10_aqi_monthly_training.html">查看图表</a><a class="button secondary" href="../images/10_aqi_monthly_training_500dpi.png" download>下载静态图</a></div></div></article>
+    </section>
+
+    <footer>静态图使用 ECharts 高分辨率画布重新渲染，并写入 500 DPI PNG 元数据。原始交互页面和数据文件保持不变。</footer>
+  </main>
+</body>
+</html>

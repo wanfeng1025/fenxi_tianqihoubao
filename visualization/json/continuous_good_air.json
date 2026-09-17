@@ -1,0 +1,44 @@
+[
+  {
+    "city_name": "亳州",
+    "start_date": "2022-06-22",
+    "end_date": "2022-08-25",
+    "consecutive_days": "65",
+    "avg_temperature": "29.7"
+  },
+  {
+    "city_name": "南京",
+    "start_date": "2024-08-13",
+    "end_date": "2024-10-10",
+    "consecutive_days": "59",
+    "avg_temperature": "26.6"
+  },
+  {
+    "city_name": "合肥",
+    "start_date": "2022-06-11",
+    "end_date": "2022-07-15",
+    "consecutive_days": "35",
+    "avg_temperature": "29.1"
+  },
+  {
+    "city_name": "杭州",
+    "start_date": "2024-06-17",
+    "end_date": "2024-08-06",
+    "consecutive_days": "51",
+    "avg_temperature": "30.4"
+  },
+  {
+    "city_name": "淮南",
+    "start_date": "2022-06-11",
+    "end_date": "2022-08-02",
+    "consecutive_days": "53",
+    "avg_temperature": "29"
+  },
+  {
+    "city_name": "铜陵",
+    "start_date": "2024-06-17",
+    "end_date": "2024-08-23",
+    "consecutive_days": "68",
+    "avg_temperature": "30"
+  }
+]

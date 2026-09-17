@@ -1,0 +1,68 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "hdfsreader",
+                    "parameter": {
+                        "path": "/user/hive/warehouse/weather_db.db/stg_aqi_monthly_2020_2025",
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "fieldDelimiter": "\u0001",
+                        "encoding": "UTF-8",
+                        "nullFormat": "\\N",
+                        "column": [
+                            {
+                                "index": 0,
+                                "type": "string"
+                            },
+                            {
+                                "index": 1,
+                                "type": "string"
+                            },
+                            {
+                                "index": 2,
+                                "type": "string"
+                            },
+                            {
+                                "index": 3,
+                                "type": "string"
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "writeMode": "insert",
+                        "column": [
+                            "city_name",
+                            "month_start",
+                            "avg_aqi",
+                            "observation_count"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai",
+                                "table": [
+                                    "stg_aqi_monthly_2020_2025"
+                                ]
+                            }
+                        ],
+                        "preSql": [
+                            "TRUNCATE TABLE stg_aqi_monthly_2020_2025"
+                        ],
+                        "batchSize": 1024
+                    }
+                }
+            }
+        ],
+        "setting": {
+            "speed": {
+                "channel": 1
+            }
+        }
+    }
+}

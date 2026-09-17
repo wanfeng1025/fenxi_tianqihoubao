@@ -1,0 +1,218 @@
+[
+  {
+    "city_name": "亳州",
+    "year": "2020",
+    "current_avg_aqi": "74.68",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "亳州",
+    "year": "2021",
+    "current_avg_aqi": "70.91",
+    "aqi_growth_rate": "-5.05"
+  },
+  {
+    "city_name": "亳州",
+    "year": "2022",
+    "current_avg_aqi": "68.79",
+    "aqi_growth_rate": "-2.99"
+  },
+  {
+    "city_name": "亳州",
+    "year": "2023",
+    "current_avg_aqi": "69.98",
+    "aqi_growth_rate": "1.73"
+  },
+  {
+    "city_name": "亳州",
+    "year": "2024",
+    "current_avg_aqi": "66.1",
+    "aqi_growth_rate": "-5.54"
+  },
+  {
+    "city_name": "亳州",
+    "year": "2025",
+    "current_avg_aqi": "75.67",
+    "aqi_growth_rate": "14.48"
+  },
+  {
+    "city_name": "南京",
+    "year": "2020",
+    "current_avg_aqi": "54.37",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "南京",
+    "year": "2021",
+    "current_avg_aqi": "54.65",
+    "aqi_growth_rate": "0.51"
+  },
+  {
+    "city_name": "南京",
+    "year": "2022",
+    "current_avg_aqi": "51.89",
+    "aqi_growth_rate": "-5.05"
+  },
+  {
+    "city_name": "南京",
+    "year": "2023",
+    "current_avg_aqi": "54.7",
+    "aqi_growth_rate": "5.42"
+  },
+  {
+    "city_name": "南京",
+    "year": "2024",
+    "current_avg_aqi": "49.03",
+    "aqi_growth_rate": "-10.37"
+  },
+  {
+    "city_name": "南京",
+    "year": "2025",
+    "current_avg_aqi": "62.58",
+    "aqi_growth_rate": "27.64"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2020",
+    "current_avg_aqi": "59.58",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2021",
+    "current_avg_aqi": "59.78",
+    "aqi_growth_rate": "0.34"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2022",
+    "current_avg_aqi": "58.76",
+    "aqi_growth_rate": "-1.71"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2023",
+    "current_avg_aqi": "60.21",
+    "aqi_growth_rate": "2.47"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2024",
+    "current_avg_aqi": "55.68",
+    "aqi_growth_rate": "-7.52"
+  },
+  {
+    "city_name": "合肥",
+    "year": "2025",
+    "current_avg_aqi": "65.78",
+    "aqi_growth_rate": "18.14"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2020",
+    "current_avg_aqi": "50.48",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2021",
+    "current_avg_aqi": "50.39",
+    "aqi_growth_rate": "-0.18"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2022",
+    "current_avg_aqi": "50.47",
+    "aqi_growth_rate": "0.16"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2023",
+    "current_avg_aqi": "51.64",
+    "aqi_growth_rate": "2.32"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2024",
+    "current_avg_aqi": "48.96",
+    "aqi_growth_rate": "-5.19"
+  },
+  {
+    "city_name": "杭州",
+    "year": "2025",
+    "current_avg_aqi": "60.23",
+    "aqi_growth_rate": "23.02"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2020",
+    "current_avg_aqi": "73.29",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2021",
+    "current_avg_aqi": "70.69",
+    "aqi_growth_rate": "-3.55"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2022",
+    "current_avg_aqi": "65.91",
+    "aqi_growth_rate": "-6.76"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2023",
+    "current_avg_aqi": "67.49",
+    "aqi_growth_rate": "2.4"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2024",
+    "current_avg_aqi": "64.91",
+    "aqi_growth_rate": "-3.82"
+  },
+  {
+    "city_name": "淮南",
+    "year": "2025",
+    "current_avg_aqi": "71.35",
+    "aqi_growth_rate": "9.92"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2020",
+    "current_avg_aqi": "57.11",
+    "aqi_growth_rate": "NULL"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2021",
+    "current_avg_aqi": "57.99",
+    "aqi_growth_rate": "1.54"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2022",
+    "current_avg_aqi": "56.72",
+    "aqi_growth_rate": "-2.19"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2023",
+    "current_avg_aqi": "57.5",
+    "aqi_growth_rate": "1.38"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2024",
+    "current_avg_aqi": "56.08",
+    "aqi_growth_rate": "-2.47"
+  },
+  {
+    "city_name": "铜陵",
+    "year": "2025",
+    "current_avg_aqi": "64.74",
+    "aqi_growth_rate": "15.44"
+  }
+]

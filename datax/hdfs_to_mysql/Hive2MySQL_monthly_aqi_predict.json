@@ -1,0 +1,73 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "hdfsreader",
+                    "parameter": {
+                        "path": "/user/hive/warehouse/weather_db.db/monthly_aqi_predict",
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "fieldDelimiter": "\t",
+                        "encoding": "UTF-8",
+                        "nullFormat": "\\N",
+                        "column": [
+                            {
+                                "index": 0,
+                                "type": "string"
+                            },
+                            {
+                                "index": 1,
+                                "type": "string"
+                            },
+                            {
+                                "index": 2,
+                                "type": "string"
+                            },
+                            {
+                                "index": 3,
+                                "type": "string"
+                            },
+                            {
+                                "index": 4,
+                                "type": "string"
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "writeMode": "insert",
+                        "column": [
+                            "city_name",
+                            "month",
+                            "predict_year",
+                            "predict_avg_aqi",
+                            "trend_slope"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai",
+                                "table": [
+                                    "monthly_aqi_predict"
+                                ]
+                            }
+                        ],
+                        "preSql": [
+                            "TRUNCATE TABLE monthly_aqi_predict"
+                        ],
+                        "batchSize": 1024
+                    }
+                }
+            }
+        ],
+        "setting": {
+            "speed": {
+                "channel": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+USE weather_db;
+SET hive.compute.query.using.stats=false;
+SET hive.exec.mode.local.auto=true;
+SET hive.cli.print.header=true;
+
+SELECT *
+FROM monthly_aqi_predict
+ORDER BY city_name, month;

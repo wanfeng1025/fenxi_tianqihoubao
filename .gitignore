@@ -1,0 +1,23 @@
+# Local credentials and runtime files
+.env
+*.pem
+*.key
+*.p12
+*.jks
+logs/
+**/logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/raw/
+data/dump/
+*.sql.gz
+*.dump
+forecast/**/result/
+forecast/**/plots/
+datax/**/logs/
+report_private/
+*.docx
+*.pdf
+screenshots_private/

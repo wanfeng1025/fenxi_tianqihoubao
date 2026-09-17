@@ -1,0 +1,83 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "hdfsreader",
+                    "parameter": {
+                        "path": "/user/hive/warehouse/weather_db.db/city_best_aqi_top3",
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "fieldDelimiter": "\u0001",
+                        "encoding": "UTF-8",
+                        "nullFormat": "\\N",
+                        "column": [
+                            {
+                                "index": 0,
+                                "type": "string"
+                            },
+                            {
+                                "index": 1,
+                                "type": "string"
+                            },
+                            {
+                                "index": 2,
+                                "type": "string"
+                            },
+                            {
+                                "index": 3,
+                                "type": "string"
+                            },
+                            {
+                                "index": 4,
+                                "type": "string"
+                            },
+                            {
+                                "index": 5,
+                                "type": "string"
+                            },
+                            {
+                                "index": 6,
+                                "type": "string"
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "writeMode": "insert",
+                        "column": [
+                            "city_name",
+                            "date",
+                            "aqi_quality_grade",
+                            "aqi_index",
+                            "pm25",
+                            "pm10",
+                            "city_rank"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai",
+                                "table": [
+                                    "city_best_aqi_top3"
+                                ]
+                            }
+                        ],
+                        "preSql": [
+                            "TRUNCATE TABLE city_best_aqi_top3"
+                        ],
+                        "batchSize": 1024
+                    }
+                }
+            }
+        ],
+        "setting": {
+            "speed": {
+                "channel": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "job": {
+        "setting": {
+            "speed": {
+                "channel": 1
+            },
+            "errorLimit": {
+                "record": 0,
+                "percentage": 0.02
+            }
+        },
+        "content": [
+            {
+                "reader": {
+                    "name": "mysqlreader",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "column": [
+                            "id",
+                            "city_name",
+                            "source_city",
+                            "date",
+                            "aqi_quality_grade",
+                            "aqi_index",
+                            "aqi_ranking_day",
+                            "PM25",
+                            "PM10",
+                            "So2",
+                            "No2",
+                            "Co",
+                            "O3",
+                            "created_at"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": [
+                                    "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai"
+                                ],
+                                "table": [
+                                    "history_aqi"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "hdfswriter",
+                    "parameter": {
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "path": "/user/hive/warehouse/weather_db.db/aqi",
+                        "fileName": "aqi_data",
+                        "column": [
+                            {
+                                "name": "id",
+                                "type": "BIGINT"
+                            },
+                            {
+                                "name": "city_name",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "source_city",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "date",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "aqi_quality_grade",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "aqi_index",
+                                "type": "INT"
+                            },
+                            {
+                                "name": "aqi_ranking_day",
+                                "type": "INT"
+                            },
+                            {
+                                "name": "PM25",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "PM10",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "So2",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "No2",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "Co",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "O3",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "created_at",
+                                "type": "STRING"
+                            }
+                        ],
+                        "writeMode": "append",
+                        "fieldDelimiter": "\t"
+                    }
+                }
+            }
+        ]
+    }
+}

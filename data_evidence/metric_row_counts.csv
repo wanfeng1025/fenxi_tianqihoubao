@@ -1,0 +1,12 @@
+metric,table,row_count
+01_aqi_grade_distribution,ads_aqi_grade_distribution,34
+02_aqi_prophet_forecast,ads_aqi_prophet_forecast,72
+03_rain_aqi_compare,ads_rain_aqi_compare,6
+04_aqi_growth_rate,aqi_growth_rate,36
+05_city_best_aqi_top3,city_best_aqi_top3,18
+06_city_max_mintemp,city_max_mintemp,6
+07_city_rainy_days,city_rainy_days,6
+08_continuous_good_air,continuous_good_air,6
+09_monthly_aqi_predict,monthly_aqi_predict,72
+10_aqi_monthly_training,stg_aqi_monthly_2020_2025,432
+total,all_metrics,688

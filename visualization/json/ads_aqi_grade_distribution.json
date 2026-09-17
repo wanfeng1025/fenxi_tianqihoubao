@@ -1,0 +1,240 @@
+[
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "严重污染",
+    "grade_count": "5",
+    "total_count": "2424",
+    "percentage": "0.21"
+  },
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "76",
+    "total_count": "2424",
+    "percentage": "3.14"
+  },
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "优",
+    "grade_count": "773",
+    "total_count": "2424",
+    "percentage": "31.89"
+  },
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "良",
+    "grade_count": "1272",
+    "total_count": "2424",
+    "percentage": "52.48"
+  },
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "271",
+    "total_count": "2424",
+    "percentage": "11.18"
+  },
+  {
+    "city_name": "亳州",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "27",
+    "total_count": "2424",
+    "percentage": "1.11"
+  },
+  {
+    "city_name": "南京",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "11",
+    "total_count": "2424",
+    "percentage": "0.45"
+  },
+  {
+    "city_name": "南京",
+    "aqi_quality_grade": "优",
+    "grade_count": "1176",
+    "total_count": "2424",
+    "percentage": "48.51"
+  },
+  {
+    "city_name": "南京",
+    "aqi_quality_grade": "良",
+    "grade_count": "1120",
+    "total_count": "2424",
+    "percentage": "46.20"
+  },
+  {
+    "city_name": "南京",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "114",
+    "total_count": "2424",
+    "percentage": "4.70"
+  },
+  {
+    "city_name": "南京",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "3",
+    "total_count": "2424",
+    "percentage": "0.12"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "严重污染",
+    "grade_count": "1",
+    "total_count": "2424",
+    "percentage": "0.04"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "35",
+    "total_count": "2424",
+    "percentage": "1.44"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "优",
+    "grade_count": "1016",
+    "total_count": "2424",
+    "percentage": "41.91"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "良",
+    "grade_count": "1226",
+    "total_count": "2424",
+    "percentage": "50.58"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "143",
+    "total_count": "2424",
+    "percentage": "5.90"
+  },
+  {
+    "city_name": "合肥",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "3",
+    "total_count": "2424",
+    "percentage": "0.12"
+  },
+  {
+    "city_name": "杭州",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "10",
+    "total_count": "2424",
+    "percentage": "0.41"
+  },
+  {
+    "city_name": "杭州",
+    "aqi_quality_grade": "优",
+    "grade_count": "1309",
+    "total_count": "2424",
+    "percentage": "54.00"
+  },
+  {
+    "city_name": "杭州",
+    "aqi_quality_grade": "良",
+    "grade_count": "1032",
+    "total_count": "2424",
+    "percentage": "42.57"
+  },
+  {
+    "city_name": "杭州",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "71",
+    "total_count": "2424",
+    "percentage": "2.93"
+  },
+  {
+    "city_name": "杭州",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "2",
+    "total_count": "2424",
+    "percentage": "0.08"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "严重污染",
+    "grade_count": "4",
+    "total_count": "2424",
+    "percentage": "0.17"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "72",
+    "total_count": "2424",
+    "percentage": "2.97"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "优",
+    "grade_count": "827",
+    "total_count": "2424",
+    "percentage": "34.12"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "良",
+    "grade_count": "1257",
+    "total_count": "2424",
+    "percentage": "51.86"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "247",
+    "total_count": "2424",
+    "percentage": "10.19"
+  },
+  {
+    "city_name": "淮南",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "17",
+    "total_count": "2424",
+    "percentage": "0.70"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "严重污染",
+    "grade_count": "1",
+    "total_count": "2424",
+    "percentage": "0.04"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "中度污染",
+    "grade_count": "15",
+    "total_count": "2424",
+    "percentage": "0.62"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "优",
+    "grade_count": "1035",
+    "total_count": "2424",
+    "percentage": "42.70"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "良",
+    "grade_count": "1234",
+    "total_count": "2424",
+    "percentage": "50.91"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "轻度污染",
+    "grade_count": "137",
+    "total_count": "2424",
+    "percentage": "5.65"
+  },
+  {
+    "city_name": "铜陵",
+    "aqi_quality_grade": "重度污染",
+    "grade_count": "2",
+    "total_count": "2424",
+    "percentage": "0.08"
+  }
+]

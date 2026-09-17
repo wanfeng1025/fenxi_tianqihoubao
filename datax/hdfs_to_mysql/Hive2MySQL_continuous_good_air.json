@@ -1,0 +1,73 @@
+{
+    "job": {
+        "content": [
+            {
+                "reader": {
+                    "name": "hdfsreader",
+                    "parameter": {
+                        "path": "/user/hive/warehouse/weather_db.db/continuous_good_air",
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "fieldDelimiter": "\t",
+                        "encoding": "UTF-8",
+                        "nullFormat": "\\N",
+                        "column": [
+                            {
+                                "index": 0,
+                                "type": "string"
+                            },
+                            {
+                                "index": 1,
+                                "type": "string"
+                            },
+                            {
+                                "index": 2,
+                                "type": "string"
+                            },
+                            {
+                                "index": 3,
+                                "type": "string"
+                            },
+                            {
+                                "index": 4,
+                                "type": "string"
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "writeMode": "insert",
+                        "column": [
+                            "city_name",
+                            "start_date",
+                            "end_date",
+                            "consecutive_days",
+                            "avg_temperature"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai",
+                                "table": [
+                                    "continuous_good_air"
+                                ]
+                            }
+                        ],
+                        "preSql": [
+                            "TRUNCATE TABLE continuous_good_air"
+                        ],
+                        "batchSize": 1024
+                    }
+                }
+            }
+        ],
+        "setting": {
+            "speed": {
+                "channel": 1
+            }
+        }
+    }
+}

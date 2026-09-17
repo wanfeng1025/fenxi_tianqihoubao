@@ -1,0 +1,99 @@
+{
+    "job": {
+        "setting": {
+            "speed": {
+                "channel": 1
+            },
+            "errorLimit": {
+                "record": 0,
+                "percentage": 0.02
+            }
+        },
+        "content": [
+            {
+                "reader": {
+                    "name": "mysqlreader",
+                    "parameter": {
+                        "username": "YOUR_MYSQL_USER",
+                        "password": "YOUR_MYSQL_PASSWORD",
+                        "column": [
+                            "id",
+                            "city_name",
+                            "date",
+                            "day_weather_condition",
+                            "night_weather_condition",
+                            "max_temperature",
+                            "min_temperature",
+                            "day_wind_direction",
+                            "night_wind_direction",
+                            "created_at"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": [
+                                    "jdbc:mysql://YOUR_MYSQL_HOST:3306/weather_db?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai"
+                                ],
+                                "table": [
+                                    "history_weather"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "writer": {
+                    "name": "hdfswriter",
+                    "parameter": {
+                        "defaultFS": "hdfs://YOUR_HADOOP_HOST:9000",
+                        "fileType": "text",
+                        "path": "/user/hive/warehouse/weather_db.db/weather",
+                        "fileName": "weather_data",
+                        "column": [
+                            {
+                                "name": "id",
+                                "type": "BIGINT"
+                            },
+                            {
+                                "name": "city_name",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "date",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "day_weather_condition",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "night_weather_condition",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "max_temperature",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "min_temperature",
+                                "type": "DOUBLE"
+                            },
+                            {
+                                "name": "day_wind_direction",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "night_wind_direction",
+                                "type": "STRING"
+                            },
+                            {
+                                "name": "created_at",
+                                "type": "STRING"
+                            }
+                        ],
+                        "writeMode": "append",
+                        "fieldDelimiter": "\t"
+                    }
+                }
+            }
+        ]
+    }
+}
